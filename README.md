@@ -13,7 +13,8 @@ Contoh document.write dan console.log
     <input type="submit" value="Submit">
 </form>
 Hasil :
-![Gambar 2024-11-05 pukul 19 06 26_1afd1a0d](https://github.com/user-attachments/assets/b80c540a-2931-4551-931d-a3d46b1f731a)
+![Screenshot_5-11-2024_1920](https://github.com/user-attachments/assets/ddeb6175-e918-431d-ace3-6780b53f266b)
+
 
 
 LATIHAN 6 
@@ -60,6 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
 © 2021 - Universitas Pelita Bangsa
 HASIL :
-![Gambar 2024-11-05 pukul 19 06 15_67bb235e](https://github.com/user-attachments/assets/c43c28a6-2b1d-4043-9b1c-2a0b1d2cd67a)
+![Screenshot_5-11-2024_19419](https://github.com/user-attachments/assets/a3ebd94b-f576-497c-aef2-c0f2cd5c28c2)
 
 
