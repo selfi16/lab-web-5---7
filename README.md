@@ -12,10 +12,6 @@ Contoh document.write dan console.log
     Email: <input type="text" id="email" name="email"><br><br>
     <input type="submit" value="Submit">
 </form>
-HASIL:
-![Screenshot (163)](https://github.com/user-attachments/assets/de74d508-e9f8-42ff-b5ed-59d95c400335)
-
-
 
 LATIHAN 6 
 <title>Simple Bootstrap Layout</title> <style> .featurette-image { width: 150px; height: 150px; background-color: #6c757d; } .widget-box { background-color: #f8f9fa; padding: 20px; margin-top: 20px; } .widget-header { background-color: #007bff; color: white; padding: 10px; margin-bottom: 10px; } .circle-icon { width: 120px; height: 120px; border-radius: 50%; display: inline-block; margin: auto; } </style>
