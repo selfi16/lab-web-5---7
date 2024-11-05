@@ -13,7 +13,8 @@ Contoh document.write dan console.log
     <input type="submit" value="Submit">
 </form>
 Hasil :
-![Gambar 2024-11-05 pukul 19 06 26_1afd1a0d]
+![Gambar 2024-11-05 pukul 19 06 26_1afd1a0d](https://github.com/user-attachments/assets/b80c540a-2931-4551-931d-a3d46b1f731a)
+
 
 LATIHAN 6 
 <title>Simple Bootstrap Layout</title> <style> .featurette-image { width: 150px; height: 150px; background-color: #6c757d; } .widget-box { background-color: #f8f9fa; padding: 20px; margin-top: 20px; } .widget-header { background-color: #007bff; color: white; padding: 10px; margin-bottom: 10px; } .circle-icon { width: 120px; height: 120px; border-radius: 50%; display: inline-block; margin: auto; } </style>
@@ -58,8 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 </div>
 
 © 2021 - Universitas Pelita Bangsa
-
+HASIL :
 ![Gambar 2024-11-05 pukul 19 06 15_67bb235e](https://github.com/user-attachments/assets/c43c28a6-2b1d-4043-9b1c-2a0b1d2cd67a)
 
-Hasil :
-![Screenshot_5-11-2024_19419_github com](https://github.com/user-attachments/assets/e0a9b902-a394-484d-b5fd-6866de87a78b)
+
