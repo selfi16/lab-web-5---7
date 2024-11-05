@@ -13,8 +13,7 @@ Contoh document.write dan console.log
     <input type="submit" value="Submit">
 </form>
 Hasil :
-![Gambar 2024-11-05 pukul 19 06 26_1afd1a0d](https://github.com/user-attachments/assets/ffbdfcbc-21da-486e-b963-3046bc7135d5)
-
+![Gambar 2024-11-05 pukul 19 06 26_1afd1a0d]
 
 LATIHAN 6 
 <title>Simple Bootstrap Layout</title> <style> .featurette-image { width: 150px; height: 150px; background-color: #6c757d; } .widget-box { background-color: #f8f9fa; padding: 20px; margin-top: 20px; } .widget-header { background-color: #007bff; color: white; padding: 10px; margin-bottom: 10px; } .circle-icon { width: 120px; height: 120px; border-radius: 50%; display: inline-block; margin: auto; } </style>
