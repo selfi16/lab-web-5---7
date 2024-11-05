@@ -12,8 +12,8 @@ Contoh document.write dan console.log
     Email: <input type="text" id="email" name="email"><br><br>
     <input type="submit" value="Submit">
 </form>
-Hasil :
-![Screenshot_5-11-2024_1920](https://github.com/user-attachments/assets/ddeb6175-e918-431d-ace3-6780b53f266b)
+HASIL:
+![Screenshot (163)](https://github.com/user-attachments/assets/de74d508-e9f8-42ff-b5ed-59d95c400335)
 
 
 
